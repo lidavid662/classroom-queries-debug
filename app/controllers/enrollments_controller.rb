@@ -12,3 +12,4 @@ class EnrollmentsController < ApplicationController
     end
   end
 end
+
